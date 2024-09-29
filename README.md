@@ -54,6 +54,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ### Data.info() and Data.isnull().sum():
 ![image](https://github.com/user-attachments/assets/c0ffc608-4c24-4c8b-8879-20dfd9149bbd)
 ![image](https://github.com/user-attachments/assets/fbfa1f1c-2e54-4dc5-9f7d-c8a53c7dcd28)
+
 ![image](https://github.com/user-attachments/assets/c8c979e9-e519-4a75-84c4-a32db90b89d8)
 
 ### Label Encoder :
