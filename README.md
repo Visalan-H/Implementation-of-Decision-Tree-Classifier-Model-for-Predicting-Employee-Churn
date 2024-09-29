@@ -16,8 +16,6 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 6. Evaluate the Model
 7. Stop
 
-
-
 ## Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
@@ -51,21 +49,21 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
 ### Data.head():
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/a0894abd-5425-4f4e-a8a5-afe6d8f06ab3)
-### Data.info() and Data.isnull().sum():
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/2d1870be-45ae-4072-94f2-457bd3fc7f8c)
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/cecd03aa-658d-4df6-b82f-8a1ef4ea0980)
+![image](https://github.com/user-attachments/assets/03eb4e62-2da8-4d20-800b-d6e66d384299)
 
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/e0a14a4c-97b2-40e8-a8a9-fb19c107dd82)
+### Data.info() and Data.isnull().sum():
+![image](https://github.com/user-attachments/assets/c0ffc608-4c24-4c8b-8879-20dfd9149bbd)
+![image](https://github.com/user-attachments/assets/fbfa1f1c-2e54-4dc5-9f7d-c8a53c7dcd28)
+![image](https://github.com/user-attachments/assets/c8c979e9-e519-4a75-84c4-a32db90b89d8)
 
 ### Label Encoder :
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/4119b636-8467-4173-867b-a83dec66b243)
+![image](https://github.com/user-attachments/assets/8cdaef34-74fb-4a62-870d-b337fa126e98)
 
 ### y.head():
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/0f00de90-8207-4a28-ac3c-bb47057ae205)
+![image](https://github.com/user-attachments/assets/cd54a54d-e44b-497f-bf61-91c5f19f6b22)
 ### Accuracy:
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/e1c1c5e3-9abd-4b70-ba69-af128b8e87d8)
+![image](https://github.com/user-attachments/assets/5d5d780c-feb7-467d-8e82-8f232b00bb9b)
 ### Prediction:
-![image](https://github.com/arbasil05/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144218037/20d0366c-a7f9-4027-8976-733d7214b398)
+![image](https://github.com/user-attachments/assets/f71bbb7a-a7c6-4414-9937-b80db8e170db)
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
