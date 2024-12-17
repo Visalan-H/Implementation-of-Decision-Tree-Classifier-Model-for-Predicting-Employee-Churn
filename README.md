@@ -22,7 +22,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Visalan H
 RegisterNumber:  212223240183
 ```
-```
+```py
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data.head()
